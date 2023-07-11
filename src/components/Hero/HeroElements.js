@@ -111,7 +111,7 @@ export const ScrollDown = styled(LinkScroll)`
 export const ScrollLink = styled.div`
   display: flex;
   align-items: center;
-  font-size: 1.3rem;
+  font-size: 1.25rem;
   color: #f6f6f6;
 
   img {

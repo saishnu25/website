@@ -31,14 +31,6 @@ function ProjectCard() {
               >
                 Github
               </a>
-              <a
-                className="btn PrimaryBtn"
-                href={list.demo_url}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Demo ➜
-              </a>
             </BtnGroup>
           </CardRight>
         </Card>

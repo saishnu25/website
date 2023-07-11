@@ -2,28 +2,26 @@
 export const ProjectList = [
   {
     img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/project_1.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    title: "Super Fowl Fists",
+    description: "Video game where you fight off enemies and bosses in different levels.",
+    tech_stack: "C, C++, OpenGL, SOIL, Irrklang, Audacity, Asprite",
+    github_url: "https://github.com/saishnu25/178_Game_Development",
+    
   },
   {
     img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/project_2.png",
-    title: "Fiber",
-    description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    title: "Tesla Dealership",
+    description: "Program to allow users to pick and purchase a Tesla.",
+    tech_stack: "Java",
+    github_url: "https://github.com/saishnu25/Tesla_Dealership_Project",
+    
   },
   {
     img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/project_3.png",
-    title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
+    title: "Portfolio Website",
+    description: "Early stages of creating my first website.",
+    tech_stack: "HTML, CSS, ReactJS",
+    github_url: "https://github.com/saishnu25/portfolio_website",
   },
 ];
 
