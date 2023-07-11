@@ -19,16 +19,13 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Saishnu Ramesh Kumar</strong> Lorem Ipsum is simply
-            dummy text of the printing and typesetting industry. Lorem Ipsum has
-            been the industry's standard dummy text ever since the 1500s, when
-            an unknown printer took a galley of type and scrambled it to make a
-            type specimen book. It has survived not only five centuries, but
-            also the leap into electronic typesetting, remaining essentially
-            unchanged.
+          Hello there! Welcome to my website, my name is Saishnu and I'm currently majoring 
+          in Computer Science at California State University, Fresno. I 
+          started this website to showcase myself and what has been going on 
+          through both my life and career.
           </div>
           <div className="AboutBio tagline2">
-            I have become confident using the following technologies.
+            These are some of the technologies I have worked with.
           </div>
           <Technologies>
             {stackList.map((stack, index) => (

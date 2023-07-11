@@ -5,7 +5,7 @@ function Contact() {
   return (
     <ContactWrapper id="contact">
       <div className="Container">
-        <div className="SectionTitle">Get In Touch</div>
+        <div className="SectionTitle">Feel free to get in touch with me!</div>
         <div className="BigCard">
           <Email>
             <span>your_email@gmail.com</span>
