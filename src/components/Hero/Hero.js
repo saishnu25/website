@@ -27,7 +27,7 @@ function Hero() {
             <h1>Hi, I'm Saishnu</h1>
             <h5>Computer Science Student</h5>
             <p>
-            I enjoy exploring different forms of technology for their various uses and learn about them.
+            Exploring different forms of technology for their various uses and learn about them.
             </p>
           </HeroLeft>
           <HeroRight>

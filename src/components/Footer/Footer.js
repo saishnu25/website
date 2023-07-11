@@ -6,7 +6,7 @@ const FooterSection = styled.div`
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 250px;
+  height: 350px;
   position: relative;
 
   span {
@@ -24,13 +24,13 @@ function Footer() {
     <FooterSection>
       <div className="Container">
         <span>
-          Coded with 💙 by{" "}
+          All rights reserved. Coded by{" "}
           <a
-            href="https://github.com/gurupawar/"
+            href="https://github.com/saishnu25/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            @gurupawar
+            @saishnu25
           </a>{" "}
         </span>
       </div>
