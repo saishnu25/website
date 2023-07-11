@@ -8,7 +8,7 @@ function Contact() {
         <div className="SectionTitle">Feel free to get in touch with me!</div>
         <div className="BigCard">
           <Email>
-            <span>your_email@gmail.com</span>
+            <span>your_name@email.com</span>
             <a
               className="btn PrimaryBtn"
               href="mailto:your_email@gmail.com"

@@ -19,13 +19,17 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-          Hello there! Welcome to my website, my name is Saishnu and I'm currently majoring 
-          in Computer Science at California State University, Fresno. I 
-          started this website to showcase myself and what has been going on 
-          through both my life and career.
+          Greetings! Welcome to my website. I'm Saishnu, a senior 
+          student pursuing Computer Science at California State University, Fresno. 
+          I established this platform to present my journey and experiences in both 
+          my personal life and professional career. It serves as a comprehensive hub
+          for my projects and showcases my diverse interests. I have a passion for 
+          Game Development and Web Development and Design, and I find joy in exploring
+          the multitude of ways technology can be applied. Constantly driven by a thirst for knowledge, 
+          I embrace every opportunity to learn and grow, both in my chosen path and in life as a whole. 
           </div>
           <div className="AboutBio tagline2">
-            These are some of the technologies I have worked with.
+            Here are a number of languages I have experience with.
           </div>
           <Technologies>
             {stackList.map((stack, index) => (

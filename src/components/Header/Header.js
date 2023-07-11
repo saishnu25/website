@@ -7,25 +7,29 @@ const Header = ({ toggle }) => {
       <Nav>
         <Logo to="/">
           <img
-            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/logo.png"
+            src="https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/logo.png"
             alt="logo"
           />
         </Logo>
         <NavMenu>
+          <NavLink className="menu-item" to="about" smooth={true}>
+            About
+          </NavLink>
           <NavLink className="menu-item" to="projects" smooth={true}>
             Projects
           </NavLink>
-          <NavLink className="menu-item" to="about" smooth={true}>
-            About
+          <NavLink className="menu-item" to="experiences" smooth={true}>
+            Experiences
           </NavLink>
           <NavLink className="menu-item" to="contact" smooth={true}>
             Contact
           </NavLink>
+
         </NavMenu>
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://github.com/gurupawar/"
+            href="https://github.com/saishnu25/"
             target="_blank"
             rel="noopener noreferrer"
           >

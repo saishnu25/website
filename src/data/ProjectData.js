@@ -40,35 +40,39 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/html5.svg",
+    img:"https://brandeps.com/logo-download/C/C-logo-vector-01.svg",
+    name: "C",
+  },
+  {
+    img:"https://brandeps.com/logo-download/C/C++-logo-vector-01.svg",
+    name: "C++",
+  },
+  {
+    img:"https://brandeps.com/logo-download/J/Java-logo-vector-01.svg",
+    name: "Java",
+  },
+  {
+    img:"https://brandeps.com/logo-download/O/OpenGL-logo-vector-01.svg",
+    name: "OpenGL",
+  },
+  {
+    img: "https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg",
     name: "HTML",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/css3.svg",
+    img: "https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg",
     name: "CSS",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/javascript.svg",
-    name: "JavaScript",
-  },
-  {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/react.svg",
+    img: "https://brandeps.com/logo-download/R/React-logo-vector-01.svg",
     name: "ReactJS",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/bootstrap.svg",
-    name: "Bootstrap",
+    img:"https://brandeps.com/icon-download/P/Python-icon-vector-04.svg",
+    name: "Python",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/sass.svg",
-    name: "Scss",
-  },
-  {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
-    name: "Git",
-  },
-  {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/responsive.svg",
-    name: "Responsive",
+    img: "https://brandeps.com/icon-download/H/Haskell-icon-vector-03.svg",
+    name: "Haskell",
   },
 ];
