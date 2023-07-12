@@ -1,48 +1,42 @@
 import React from "react";
-import { stackList } from "../../data/ProjectData";
 import {
   Image,
-  Technologies,
-  Tech,
-  TechImg,
-  TechName,
   ContactWrapper,
-} from "./AboutElements";
-function About() {
+} from "./ExperiencesElements";
+
+function Experiences() {
   return (
     <ContactWrapper id="about">
       <div className="Container">
-        <div className="SectionTitle">About Me</div>
+        <div className="SectionTitle">Experiences</div>
         <div className="BigCard">
           <Image
-            src="https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/profile.png"
-            alt="profile"
+            src="https://pbs.twimg.com/profile_images/1309921495007682561/UL5tWYCm_400x400.jpg"
+            alt="CSci Club"
           />
           <div className="AboutBio">
-          Greetings! Welcome to my website. I'm Saishnu, a senior 
-          student pursuing Computer Science at California State University, Fresno. 
-          I established this platform to present my journey and experiences in both 
-          my personal life and professional career. It serves as a comprehensive hub
-          for my projects and showcases my diverse interests. I have a passion for 
-          Game Development and Web Development and Design, and I find joy in exploring
-          the multitude of ways technology can be applied. Constantly driven by a thirst for knowledge, 
-          I embrace every opportunity to learn and grow, both in my chosen path and in life as a whole. 
+          
           </div>
           <div className="AboutBio tagline2">
-            Here are a number of languages I have experience with.
+            Computer Science Club (Fresno State) - Treasurer (Aug 2022 - Aug 2023)
           </div>
-          <Technologies>
-            {stackList.map((stack, index) => (
-              <Tech key={index} className="tech">
-                <TechImg src={stack.img} alt={stack.name} />
-                <TechName>{stack.name}</TechName>
-              </Tech>
-            ))}
-          </Technologies>
-        </div>
+          <Image
+            src="https://avatars.githubusercontent.com/u/93381519?s=280&v=4"
+            alt="GDSC"
+          />
+          <div className="AboutBio">
+          </div>
+          <div className="AboutBio tagline2">
+            Google Developer Student Club (Fresno State) - Treasurer (Aug 2022 - Present)
+          </div>
+          </div>
+
+          
       </div>
+
+      
     </ContactWrapper>
   );
 }
 
-export default About;
+export default Experiences;

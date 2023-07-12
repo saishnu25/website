@@ -25,6 +25,33 @@ export const ProjectList = [
   },
 ];
 
+// --------------------------------------- Languages
+
+export const langList = [
+  {
+    img: "https://img.icons8.com/?size=512&id=15534&format=png",
+    name: "English",
+  },
+  {
+    img: "https://img.icons8.com/?size=512&id=60255&format=png",
+    name: "Malay",
+  },
+  {
+    img: "https://img.icons8.com/?size=512&id=32584&format=png",
+    name: "Tamil",
+  },
+  {
+    img: "https://img.icons8.com/?size=512&id=15542&format=png",
+    name: "Italian",
+  },
+  {
+    img:"https://img.icons8.com/?size=512&id=15497&format=png",
+    name:"French",
+  },
+
+
+]
+
 // --------------------------------------- Skills
 
 export const stackList = [

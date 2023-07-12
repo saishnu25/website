@@ -24,7 +24,7 @@ function Footer() {
     <FooterSection>
       <div className="Container">
         <span>
-          All rights reserved. Coded by{" "}
+          Coded by{" "}
           <a
             href="https://github.com/saishnu25/"
             target="_blank"
