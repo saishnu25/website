@@ -31,7 +31,7 @@ function Footer() {
             rel="noopener noreferrer"
           >
             @saishnu25
-          </a>{" "}.
+          </a>.{" "}
         </span>
       </div>
     </FooterSection>
