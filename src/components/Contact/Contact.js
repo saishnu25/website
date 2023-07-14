@@ -5,13 +5,13 @@ function Contact() {
   return (
     <ContactWrapper id="contact">
       <div className="Container">
-        <div className="SectionTitle">Feel free to get in touch with me!</div>
+        <div className="SectionTitle">Get in touch with me!</div>
         <div className="BigCard">
           <Email>
-            <span>name@email.com</span>
+            <span>saishnu2503@gmail.com</span>
             <a
               className="btn PrimaryBtn"
-              href="mailto:your_email@gmail.com"
+              href="mailto:saishnu2503@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
             >

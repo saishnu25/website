@@ -24,14 +24,14 @@ function Footer() {
     <FooterSection>
       <div className="Container">
         <span>
-          Coded by{" "}
+          Template by {"@gurupawar"}. Coded by{" "}
           <a
             href="https://github.com/saishnu25/"
             target="_blank"
             rel="noopener noreferrer"
           >
             @saishnu25
-          </a>{" "}
+          </a>{" "}.
         </span>
       </div>
     </FooterSection>

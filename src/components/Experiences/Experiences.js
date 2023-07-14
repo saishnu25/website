@@ -6,7 +6,7 @@ import {
 
 function Experiences() {
   return (
-    <ContactWrapper id="about">
+    <ContactWrapper id="experiences">
       <div className="Container">
         <div className="SectionTitle">Experiences</div>
         <div className="BigCard">
