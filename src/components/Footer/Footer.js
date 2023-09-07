@@ -24,7 +24,7 @@ function Footer() {
     <FooterSection>
       <div className="Container">
         <span>
-          Template by {"@gurupawar"}. Coded by{" "}
+          Created July 14, 2023. By{" "}
           <a
             href="https://github.com/saishnu25/"
             target="_blank"

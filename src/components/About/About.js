@@ -21,12 +21,12 @@ function About() {
           <div className="AboutBio">
           Greetings! Welcome to my website. I'm Saishnu, a senior 
           student pursuing Computer Science at California State University, Fresno. 
-          I established this website to present my journey and experiences in both 
-          my personal life and professional career. It serves as a comprehensive hub
-          for my projects and showcases my diverse interests. I have a passion for 
-          Game Development and Web Development and Design, and I find joy in exploring
-          the multitude of ways technology can be applied. Constantly driven by a thirst for knowledge, 
-          I embrace every opportunity to learn and grow, both in my chosen path and in life as a whole. 
+          I established this website to present my journey and experiences in my professional 
+          career. It serves as a comprehensive hub for my projects and showcases my diverse interests. 
+          I have a interest for Project Management, Game Development, and Web Development and Design. 
+          I find joy in exploring the multitude of ways technology can be applied. Constantly driven 
+          by a thirst for knowledge, I embrace every opportunity to learn and grow, both in my chosen 
+          path and in life as a whole. 
           </div>
 
           <div className = "AboutBio tagline2">

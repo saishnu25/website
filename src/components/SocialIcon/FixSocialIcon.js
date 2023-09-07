@@ -1,5 +1,7 @@
 import React from "react";
-import { FaLinkedin, FaInstagram, FaGithub, FaYoutube, FaTwitter } from "react-icons/fa";
+import { FaLinkedin, FaInstagram, FaGithub, FaYoutube } from "react-icons/fa";
+import {RiTwitterXFill} from "react-icons/ri";
+
 import styled from "styled-components";
 
 const Social = styled.div`
@@ -67,7 +69,7 @@ function FixSocialIcon() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaTwitter />
+            <RiTwitterXFill />
           </a>
         </li>
         <li className="item">

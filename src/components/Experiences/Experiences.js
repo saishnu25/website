@@ -27,7 +27,7 @@ function Experiences() {
           <div className="AboutBio">
           </div>
           <div className="AboutBio tagline2">
-            Google Developer Student Club (Fresno State) - Treasurer (Aug 2022 - Present)
+            Google Developer Student Club (Fresno State) - Treasurer (Aug 2022 - Aug 2023)
           </div>
           </div>
 
