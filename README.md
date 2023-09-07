@@ -26,11 +26,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 Open the project folder and Navigate to `/src/data/ProjectData` and add your projects details.
 
 You will find all the components used and you can edit your information accordingly.
-
-## Contribute
-
-Pull Requests are welcome. :)
-
-## Show your support
-
-Give a ⭐ if you like this website!
