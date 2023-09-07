@@ -1,4 +1,4 @@
-**Portfolio**
+**Portfolio Website Template**
 
 Template provided and cloned from https://github.com/gurupawar/.
 
@@ -11,9 +11,9 @@ Live Preview - [Click Here](https://gurusheshp.vercel.app/)
 <br/>
 <br/>
 
-# 🛠 Installation and Setup Instructions
+# Installation and Setup Instructions
 
-Clone down this repository. You will need node.js and git installed globally on your machine..
+Clone down this repository. You will need node.js and git installed globally on your machine.
 
 Installation: `npm install`
 
