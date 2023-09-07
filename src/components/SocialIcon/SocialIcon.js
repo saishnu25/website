@@ -1,5 +1,6 @@
 import React from "react";
-import { FaLinkedin, FaInstagram, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaInstagram, FaGithub, FaYoutube } from "react-icons/fa";
+import {RiTwitterXFill} from "react-icons/ri";
 
 import styled from "styled-components";
 
@@ -37,7 +38,7 @@ function SocialIcon() {
       <ul>
         <li className="item">
           <a
-            href="https://www.linkedin.com/in/your_username/"
+            href="https://www.linkedin.com/in/saishnu25/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -46,7 +47,7 @@ function SocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://github.com/your_username/"
+            href="https://github.com/https://github.com/saishnu25/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,11 +56,29 @@ function SocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://instagram.com/your_username/"
+            href="https://www.instagram.com/saishnu25/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaInstagram />
+          </a>
+        </li>
+        <li className="item">
+          <a
+            href="https://twitter.com/saishnu25"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <RiTwitterXFill />
+          </a>
+        </li>
+        <li className="item">
+          <a
+            href="https://www.youtube.com/user/GhostProtocol2503"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaYoutube />
           </a>
         </li>
       </ul>
