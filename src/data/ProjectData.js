@@ -4,7 +4,7 @@ export const ProjectList = [
     img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/portfolio.png",
     title: "Portfolio Website",
     description: "Early stages of creating my first website.",
-    tech_stack: "HTML, CSS, ReactJS, GitHub",
+    tech_stack: "React.js, HTML, CSS, Vercel",
     github_url: "https://github.com/saishnu25/portfolio_website",
   },
   {
@@ -24,8 +24,8 @@ export const ProjectList = [
   {
     img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/superfowlfists.png",
     title: "Super Fowl Fists",
-    description: "Video game where you fight off enemies and bosses in different levels.",
-    tech_stack: "C, C++, OpenGL, SOIL, Irrklang, Audacity, Asprite",
+    description: "Developed a video game where the player fights off enemies and bosses in different levels.",
+    tech_stack: "OpenGL, C/C++, SOIL, Irrklang",
     github_url: "https://github.com/saishnu25/178_Game_Development",
     
   },
@@ -102,7 +102,7 @@ export const stackList = [
     name: "Python",
   },
   {
-    img: "https://brandeps.com/icon-download/H/Haskell-icon-vector-03.svg",
+    img: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg",
     name: "Haskell",
   },
 ];

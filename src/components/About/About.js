@@ -1,5 +1,5 @@
 import React from "react";
-import { langList, stackList } from "../../data/ProjectData";
+import { langList, stackList, certList } from "../../data/ProjectData";
 import {
   Image,
   Technologies,
@@ -30,7 +30,7 @@ function About() {
           </div>
 
           <div className = "AboutBio tagline2">
-            Multilingual
+            Languages
           </div>
           <Technologies>
             {langList.map((stack, index) => (
