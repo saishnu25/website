@@ -8,6 +8,20 @@ export const ProjectList = [
     github_url: "https://github.com/saishnu25/portfolio_website",
   },
   {
+    img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/statistical.png",
+    title: "Statistical Language Modeling",
+    description: "Created a MATLAB program to predict the next word in a given book and display a graph of unique words found within the book.",
+    tech_stack: "MATLAB",
+    github_url: "https://github.com/saishnu25/164_Artificial_Intelligence_Programming/tree/main/Project_1",
+  },
+  {
+    img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/waveanimation.png",
+    title: "Wave Animation",
+    description: "Programmed a wave animation within a skybox.",
+    tech_stack: "OpenGL, C/C++, SOIL",
+    github_url: "https://github.com/saishnu25/173_Advanced_Computer_Graphics/tree/main/Project_5",
+  },
+  {
     img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/superfowlfists.png",
     title: "Super Fowl Fists",
     description: "Video game where you fight off enemies and bosses in different levels.",
