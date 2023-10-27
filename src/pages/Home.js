@@ -6,6 +6,7 @@ import Contact from "../components/Contact/Contact";
 import Footer from "../components/Footer/Footer";
 import FixSocialIcon from "../components/SocialIcon/FixSocialIcon";
 import Experiences from "../components/Experiences/Experiences";
+import Awards from "../components/Awards/Awards";
 
 function Home() {
   return (
@@ -14,6 +15,7 @@ function Home() {
       <Projects />
       <About />
       <Experiences/>
+      <Awards/>
       <Contact />
       <Footer />
       <FixSocialIcon />

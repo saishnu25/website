@@ -1,5 +1,5 @@
 import React from "react";
-import { langList, stackList, certList } from "../../data/ProjectData";
+import { langList, stackList } from "../../data/ProjectData";
 import {
   Image,
   Technologies,
