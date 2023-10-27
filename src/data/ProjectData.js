@@ -1,7 +1,14 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/project_1.png",
+    img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/portfolio.png",
+    title: "Portfolio Website",
+    description: "Early stages of creating my first website.",
+    tech_stack: "HTML, CSS, ReactJS, GitHub",
+    github_url: "https://github.com/saishnu25/portfolio_website",
+  },
+  {
+    img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/superfowlfists.png",
     title: "Super Fowl Fists",
     description: "Video game where you fight off enemies and bosses in different levels.",
     tech_stack: "C, C++, OpenGL, SOIL, Irrklang, Audacity, Asprite",
@@ -9,19 +16,12 @@ export const ProjectList = [
     
   },
   {
-    img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/project_2.png",
+    img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/tesla.png",
     title: "Tesla Dealership",
     description: "Program to allow users to pick and purchase a Tesla.",
     tech_stack: "Java",
     github_url: "https://github.com/saishnu25/Tesla_Dealership_Project",
     
-  },
-  {
-    img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/project_3.png",
-    title: "Portfolio Website",
-    description: "Early stages of creating my first website.",
-    tech_stack: "HTML, CSS, ReactJS",
-    github_url: "https://github.com/saishnu25/portfolio_website",
   },
 ];
 
