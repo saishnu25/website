@@ -105,4 +105,8 @@ export const stackList = [
     img: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg",
     name: "Haskell",
   },
+  {
+    img: "https://www.svgrepo.com/show/373830/matlab.svg",
+    name: "MATLAB",
+  },
 ];
