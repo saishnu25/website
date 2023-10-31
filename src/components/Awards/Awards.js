@@ -4,7 +4,7 @@ import {
   ContactWrapper,
 } from "./AwardsElements";
 
-function Experiences() {
+function Awards() {
   return (
     <ContactWrapper id="awards">
       <div className="Container">
@@ -60,4 +60,4 @@ function Experiences() {
   );
 }
 
-export default Experiences;
+export default Awards;

@@ -27,7 +27,9 @@ function Hero() {
             <h1>Hi, I'm Saishnu</h1>
             <h5>Computer Science Student</h5>
             <p>
-            Currently studying. Always eager to learn about new technology and innovations.
+            Currently studying and pursuing the Google Project Management: Professional Certificate via Coursera. 
+            Always eager to learn about new technology and innovations. 
+            
             </p>
           </HeroLeft>
           <HeroRight>
