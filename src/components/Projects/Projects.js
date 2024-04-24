@@ -22,7 +22,7 @@ function Projects() {
       </svg>
       <div className="ProjectWrapper" id="projects">
         <div className="Container">
-          <div className="SectionTitle">Projects</div>
+          <div className="SectionTitle">Project Highlights</div>
           <ProjectCard />
         </div>
       </div>

@@ -4,14 +4,14 @@ export const ProjectList = [
     img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/portfolio.png",
     title: "Portfolio Website",
     description: "Early stages of creating my first website.",
-    tech_stack: "React.js, HTML, CSS, Vercel",
+    tech_stack: "ReactJS, HTML, CSS, Vercel",
     github_url: "https://github.com/saishnu25/portfolio_website",
   },
   {
     img: "https://raw.githubusercontent.com/saishnu25/website/main/src/Assets/statistical.png",
     title: "Statistical Language Modeling",
     description: "Created a MATLAB program to predict the next word in a given book and display a graph of unique words found within the book.",
-    tech_stack: "MATLAB",
+    tech_stack: "Matlab",
     github_url: "https://github.com/saishnu25/164_Artificial_Intelligence_Programming/tree/main/Project_1",
   },
   {
@@ -102,11 +102,7 @@ export const stackList = [
     name: "Python",
   },
   {
-    img: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg",
-    name: "Haskell",
-  },
-  {
     img: "https://www.svgrepo.com/show/373830/matlab.svg",
-    name: "MATLAB",
+    name: "Matlab",
   },
 ];
